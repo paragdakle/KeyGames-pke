@@ -11,6 +11,7 @@ nlp=spacy.load('en_core_web_lg')
 import pickle
 import numpy as np
 import nltk
+nltk.download('stopwords')
 import re
 import glob
 import os
