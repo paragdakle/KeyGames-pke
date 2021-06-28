@@ -12,6 +12,8 @@ This is the repository for the pke+ implementation of KeyGames and other systems
 - [pke](https://github.com/boudinfl/pke)
 	- Install with `python3 -m pip install git+https://github.com/boudinfl/pke`
 	- To execute EmbedRank you will need [sent2vec_wiki_bigrams](https://drive.google.com/open?id=0B6VhzidiLvjSaER5YkJUdWdPWU0) (16GB !) downloadable from [epfml/sent2vec]
+- [fuzzywuzzy](https://pypi.org/project/fuzzywuzzy/)
+	- Install with `pip install fuzzywuzzy`
 
 ## Running Pipeline
 
